@@ -15,7 +15,7 @@
 
 ### 🛠️ 사용 툴
 - Visual Studio
-- Unreal 4.27
+- Unreal Engine (UE4)
 
 ### 📁 대표 프로젝트
 - **[UnderGround]** - UE4 기반 3D AI FPS 게임 팀개발 ([GitHub/링크](https://github.com/ye-seong/IfTeam_UnderGround))
