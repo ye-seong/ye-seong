@@ -14,9 +14,8 @@
 - 언리얼 에디터 확장 및 툴 개발
 
 ### 🛠️ 사용 툴
-- Visual Studio, Rider for Unreal
-- Perforce / Git
-- Unreal Insights, RenderDoc, PIX
+- Visual Studio
+- Unreal 4.27
 
 ### 📁 대표 프로젝트
 - **[UnderGround]** - UE4 기반 3D AI FPS 게임 팀개발 ([GitHub/링크](https://github.com/ye-seong/IfTeam_UnderGround))
