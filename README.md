@@ -99,10 +99,8 @@
   <p>언리얼 엔진과 게임 개발 프로젝트에 관한 협업을 환영합니다</p>
 </div>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ye-seong&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/ye-seong"
-  width="600"
-  height="300"
-/>
-</a>
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ye-seong&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/ye-seong" width="600" height="300" />
+  </a>
+</div>
