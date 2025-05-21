@@ -7,7 +7,7 @@
   <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" alt="LinkedIn">
   </a>&nbsp;
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:dptjd0109@gmail.com">
     <img src="https://img.shields.io/badge/-Email-black.svg?style=for-the-badge&logo=gmail&colorB=555" alt="Email">
   </a>&nbsp;
   <a href="https://your-portfolio.com">
