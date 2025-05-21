@@ -47,9 +47,9 @@
   <h2>🎮 진행 중인 프로젝트</h2>
 </div>
 <div class="projects-wrapper" align="center">
-  <a href="https://github.com/ye-seonge/IfTeam_UnderGround">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ye-seong&repo=IfTeam_UnderGround&theme=radical&hide_border=true" />
-  </a>
+  <a href="https://github.com/ye-seong/IfTeam_UnderGround">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ye-seong&repo=IfTeam_UnderGround&theme=radical&hide_border=true" />
+</a>
   <a href="https://github.com/ye-seong/project-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ye-seong&repo=project-2&theme=radical&hide_border=true" />
   </a>
