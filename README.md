@@ -4,17 +4,7 @@
   <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Robot.png?raw=true" width="150" />
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>&nbsp;
-  <a href="mailto:dptjd0109@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>&nbsp;
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/-포트폴리오-4285F4.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
-  </a>
-</p>
+<p align="center"><a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;<a href="mailto:dptjd0109@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-포트폴리오-4285F4.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a></p>
 
 <br>
 
@@ -22,30 +12,20 @@
 <tr>
 <td align="center" width="50%">
   <h3>🧰 주요 기술 스택</h3>
-  <p align="center">
-    <a href="https://isocpp.org/">
-      <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++"/>
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.unrealengine.com/">
-      <img src="https://skillicons.dev/icons?i=unreal" width="50" height="50" alt="Unreal Engine"/>
-    </a>
-  </p>
+  <p align="center"><a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal" width="50" height="50" alt="Unreal Engine"/></a></p>
   <p align="center">언리얼 엔진 4를 활용한 게임 시스템 개발 전문가</p>
 </td>
 <td align="center" width="50%">
   <h3>📚 현재 학습 중</h3>
-  <p align="center">
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-      <img src="https://skillicons.dev/icons?i=cs" width="50" height="50" alt="C#"/>
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://unity.com/">
-      <img src="https://skillicons.dev/icons?i=unity" width="50" height="50" alt="Unity"/>
-    </a>
-  </p>
+  <p align="center"><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="50" height="50" alt="C#"/></a>&nbsp;&nbsp;&nbsp;<a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" width="50" height="50" alt="Unity"/></a></p>
   <p align="center">유니티 개발로 기술 영역 확장 중</p>
 </td>
 </tr>
 </table>
+<div align="center">
+  <h4>🔧 경험해 본 기타 툴 및 언어</h4>
+  <p><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="30" height="30" alt="Python"/></a>&nbsp;<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="30" height="30" alt="MySQL"/></a>&nbsp;<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="30" height="30" alt="Docker"/></a>&nbsp;<a href="https://www.heroku.com/"><img src="https://skillicons.dev/icons?i=heroku" width="30" height="30" alt="Heroku"/></a>&nbsp;<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" width="30" height="30" alt="Flask"/></a>&nbsp;<a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=markdown" width="30" height="30" alt="Markdown"/></a></p>
+</div>
 
 <div align="center">
   <h2>🎮 진행 중인 프로젝트</h2>
