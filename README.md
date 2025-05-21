@@ -23,3 +23,14 @@
 
 ### 📫 연락처
 - Email: dptjd0109@gmail.com
+
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ye-seong&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/ye-seong"
+    width="600"
+    height="230"
+  />
+</a>
+  
