@@ -71,17 +71,17 @@
       <td align="center" width="33.33%">
         <div style="padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); box-shadow: 0 8px 25px rgba(0,0,0,0.15);">
           <h3 style="margin-top: 0;">
-            <a href="https://github.com/ye-seong/SignalHome" style="color: #ffffff; text-decoration: none; font-weight: bold;">
+            <a href="https://github.com/ye-seong/Signal-Home" style="color: #ffffff; text-decoration: none; font-weight: bold;">
               🌌 Signal Home
             </a>
           </h3>
           <p style="color: #e0f7ff; font-size: 14px; line-height: 1.4; margin: 15px 0;">
-            언리얼 엔진 기반 몰입형 1인칭<br>외계 행성 SF 생존 어드벤처<br>1인 개발 프로젝트
+            유니티 엔진 기반 몰입형 1인칭<br>외계 행성 SF 생존 어드벤처<br>1인 개발 프로젝트
           </p>
           <div style="margin-top: 15px;">
-            <img src="https://img.shields.io/badge/Unreal%20Engine-4-blueviolet?style=for-the-badge&logo=unreal-engine" alt="Unreal Engine" />
+            <img src="https://img.shields.io/badge/Unity-2023.3-000000?style=for-the-badge&logo=unity" alt="Unity" />
             <br><br>
-            <img src="https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=c%2B%2B" alt="C++" />
+            <img src="https://img.shields.io/badge/C%23-11-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
           </div>
         </div>
       </td>
