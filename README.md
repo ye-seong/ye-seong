@@ -76,7 +76,7 @@
             </a>
           </h3>
           <p style="color: #e0f7ff; font-size: 14px; line-height: 1.4; margin: 15px 0;">
-            유니티 엔진 기반 몰입형 1인칭<br>외계 행성 SF 생존 어드벤처<br>1인 개발 프로젝트
+            유니티 기반 몰입형 1인칭<br>외계 행성 SF 생존 어드벤처<br>1인 개발 프로젝트
           </p>
           <div style="margin-top: 15px;">
             <img src="https://img.shields.io/badge/Unity-2023.3-000000?style=for-the-badge&logo=unity" alt="Unity" />
