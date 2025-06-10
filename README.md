@@ -4,7 +4,7 @@
   <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Robot.png?raw=true" width="150" />
 </div>
 
-<p align="center"><a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;<a href="mailto:dptjd0109@gmail.com"><img src="https://img.shields.io/badge/-dptjd0109@gmail.com-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-포트폴리오-4285F4.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a></p>
+<p align="center"><a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;<a href="mailto:dptjd0109@gmail.com"><img src="https://img.shields.io/badge/-dptjd0109@gmail.com-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-포트폴리오-4285F4.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>&nbsp;<a href="https://velog.io/@ye-seong/posts"><img src="https://img.shields.io/badge/-Velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"></a></p>
 
 <br>
 
