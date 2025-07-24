@@ -4,21 +4,21 @@
   <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Robot.png?raw=true" width="150" />
 </div>
 
-<p align="center"><a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;<a href="mailto:dptjd0109@gmail.com"><img src="https://img.shields.io/badge/-dptjd0109@gmail.com-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-포트폴리오-4285F4.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>&nbsp;<a href="https://velog.io/@ye-seong/posts"><img src="https://img.shields.io/badge/-Velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"></a></p>
+<p align="center"><a href="mailto:dptjd0109@gmail.com"><img src="https://img.shields.io/badge/-dptjd0109@gmail.com-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;<a href="https://www.notion.so/239739ef656a80fb887bda130495e6d6"><img src="https://img.shields.io/badge/-Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"></a>&nbsp;<a href="https://velog.io/@ye-seong/posts"><img src="https://img.shields.io/badge/-Velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"></a></p>
 
 <br>
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td align="center" width="100%">
   <h3>🧰 주요 기술 스택</h3>
-  <p align="center"><a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal" width="50" height="50" alt="Unreal Engine"/></a></p>
-  <p align="center">언리얼 엔진 4를 활용한 게임 시스템 개발 전문가</p>
-</td>
-<td align="center" width="50%">
-  <h3>📚 현재 학습 중</h3>
-  <p align="center"><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="50" height="50" alt="C#"/></a>&nbsp;&nbsp;&nbsp;<a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" width="50" height="50" alt="Unity"/></a></p>
-  <p align="center">유니티 개발로 기술 영역 확장 중</p>
+  <p align="center">
+    <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal" width="50" height="50" alt="Unreal Engine"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="50" height="50" alt="C#"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" width="50" height="50" alt="Unity"/></a>
+  </p>
+  <p align="center">언리얼 엔진과 유니티를 활용한 게임 개발 전문가</p>
 </td>
 </tr>
 </table>
